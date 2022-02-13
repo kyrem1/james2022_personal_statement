@@ -1,4 +1,3 @@
-%
 \documentclass[11pt]{article}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-- Settings --%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -27,7 +26,6 @@
 
 % Begin Document
 \begin{document}
-
 \begin{center}
   \textbf{Personal Statement}\\
   James Harbour \\
